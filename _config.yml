@@ -7,11 +7,11 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "The Molecular Bioarchaeology of Ancient Mesoamerican Life"
+title                    : "Molecular Bioarchaeology of Ancient Mesoamerican Life"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : &name "Horvey M. Palacios M.A."
-description              : &description #"Grad student"
+description              : &description "Graduate student"
 url                      : https://horveypalacios.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "horveypalacios/horveypalacios.github.io"
@@ -81,7 +81,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Horvey M. Palacios M.A. He/El"
+  name             : "Horvey M. Palacios, M.A. <i>He/El</i>"
   avatar           : "IMG_0804.jpg"
   bio              : "Mayanist and Molecular Anthropologist"
   location         : "Norman, Oklahoma"
