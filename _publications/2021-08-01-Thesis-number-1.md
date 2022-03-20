@@ -1,5 +1,5 @@
 ---
- title: "Paper Title Number 1"
+ title: "Bioarchaeological and Mortuary Patterns at Holtun, Guatemala: Integrating a Comparative Osteobiographic Approach "
  collection: publications
  permalink:_publications/2021-08-01-Thesis-number-1
  venue: "UCF Stars Repository: Theses and Dissertations"
