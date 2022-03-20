@@ -4,13 +4,10 @@ main:
     url: /publications/
 
   - title: "SciComm"
-    url: /SciComm/    
-
-  - title: "Community Engagement"
-    url: /Community Engagement/    
-    
-  - title: "Portfolio"
-    url: /portfolio/
+    url: /scicomm/    
+        
+  - title: "Engagement"
+    url: /engagement/         
         
   - title: "New Anthropos"
     url: /year-archive/
