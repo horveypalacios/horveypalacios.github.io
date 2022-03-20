@@ -11,9 +11,12 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Anthropology (Human Health & Biology), University of Oklahoma, 2026 (expected)
+* Graduate Certificate in Applied Statistics, University of Oklahoma, 2024 (expected)
+* Graduate Certificate in Digital Humanities, University of Oklahoma, 2023 (expected)
+* M.A. in Anthropology (Bioarchaeology), University of Central Florida, 2021
+* B.A. in Anthropology, University of Miami, 2018
+
 
 Work experience
 ======
