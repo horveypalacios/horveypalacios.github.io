@@ -81,14 +81,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Horvey M. Palacios M.A."
-  avatar           : "IMG_0804.jpg"
+  name             : "Horvey M. Palacios M.A. He/El"
+  avatar           : #"IMG_0804.jpg"
   bio              : "Mayanist and Molecular Anthropologist"
   location         : "Norman, Oklahoma"
   employer         : "University of Oklahoma"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=aGuSXgwAAAAJ&hl=en"
-  email            :
+  email            : "horvey.palacios@ou.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -97,13 +97,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://www.github.com/horveypalacios"
+  github           : "https://github.com/horveypalacios/"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "www.linkedin.com/in/horveypalacios"
+  linkedin         : "linkedin.com/in/horveypalacios"
   orcid            : "https://orcid.org/0000-0003-4968-272X"
   pinterest        :
   soundcloud       :
