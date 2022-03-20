@@ -1,7 +1,7 @@
 ---
 title: "Bioarchaeological and Mortuary Patterns at Holtun, Guatemala: Integrating a Comparative Osteobiographic Approach"
 collection: publications
-permalink: /publication/Palacios-2021
+permalink: /publication/Palacios-2021.pdf
 excerpt: 'Ancient Maya, Bioarchaeology, Mortuary Archaeology, Comparative Osteobiography, Personhood'
 date: 2021-08-05
 venue: 'UCF Stars Repository'
