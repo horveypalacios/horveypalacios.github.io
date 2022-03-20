@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Horvey M. Palacios M.A."
+title                    : "Creating Dangerously"
 title_separator          : "-"
 name                     : &name "Horvey M. Palacios M.A."
-description              : &description "Graduatea Student"
+description              : &description "Graduate Student"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "horveypalacios/horveypalacios.github.io"
