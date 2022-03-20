@@ -3,16 +3,16 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Talks"
-    url: /talks/    
+  - title: "SciComm"
+    url: /SciComm/    
 
-  - title: "Teaching"
-    url: /teaching/    
+  - title: "Community Engagement"
+    url: /Community Engagement/    
     
   - title: "Portfolio"
     url: /portfolio/
         
-  - title: "Blog Posts"
+  - title: "New Anthropos"
     url: /year-archive/
     
   - title: "CV"
