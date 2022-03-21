@@ -7,6 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
+I am even more certain that to create dangerously is also to create fearlessly, boldly embracing the public and private terrors that would silence us.
+------
+*–Edwidge Danticat*
 
 Meet Me
 ------
@@ -33,7 +36,3 @@ For site content, there is one markdown file for each type of content, which are
 Current Projects
 ------
 For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff.
-
-I am even more certain that to create dangerously is also to create fearlessly, boldly embracing the public and private terrors that would silence us.
-------
-*–Edwidge Danticat*
