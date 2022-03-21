@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Who am I"
+title: "Welcome In!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 Meet Me
-======
+------
 My name is Horvey and I am a Miami native, Hispanic-American LatinX man currently attending OU (BOOMER SOONER!). So, what made me want to be an anthropologist? The short answer is, that humanity fascinates me. Anthropology is full of people who desire to examine the past, help make sense of the present, and explain who we are as humans. I Can’t imagine a better way to spend a career.
 
 What is this site?
