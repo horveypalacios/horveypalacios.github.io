@@ -1,7 +1,4 @@
 ---
- Bioarchaeological and Mortuary Patterns at Holtun, Guatemala: Integrating a Comparative Osteobiographic Approach (2021)
- ---
-
 **Citation:** Palacios, H. M. (2021). *Bioarchaeological and Mortuary Patterns at Holtun, Guatemala: Integrating a Comparative Osteobiographic Approach. (M.A.)*, University of Central Florida.,
 
 **Key Terms:** Ancient Maya, Bioarchaeology, Mortuary Archaeology, Personhood, Comparative Osteobiography 
