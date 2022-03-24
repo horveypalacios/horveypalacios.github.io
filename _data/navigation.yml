@@ -3,11 +3,11 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "SciComm"
-    url: /scicomm/    
+  - title: "Projects"
+    url: /projects/    
         
-  - title: "Engagement"
-    url: /engagement/         
+  - title: "SciComm"
+    url: /scicomm/         
         
   - title: "New Anthropos"
     url: /year-archive/
