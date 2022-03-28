@@ -32,9 +32,9 @@ What is this site?
 ------
 I started this site to write about my research and what excites (and worries) me about the intersections of anthropology, molecular sciences, higher education, and our current world. I also want to use this site as a primary vessel to communicate my research to public audiences and make my scholarship more inclusive and accessible for underrepresented communities in STEM or that have limited access to academia due to structural barriers. I am committed to decolonizing academia and eliminating systemic inequities that continue to affect our full-throated inclusion in STEM fields and higher education more broadly. 
 
-A major component of my training and work is centering science as a resource to the public, and actively _co-creating_ projects with minority communities that serve them _and_ address questions of scientific inquiry at the same time. Currently, I am associate editor of the Oklahoma Public Archaeology Network Quarterly [OKPAN OQ](https://www.ou.edu/okpan/quarterly) a History & Heritage Magazine serving the oklahoma public, now in its sixth year of publication. All opinions and errors in this site are entirely my own— unless cited otherwise haha #academichumor!
+A major component of my training and work is centering science as a resource to the public, and actively _co-creating_ projects with minority communities that serve them _and_ address questions of scientific inquiry at the same time. Currently, I am Associate Editor of the Oklahoma Public Archaeology Network Quarterly [OKPAN OQ](https://www.ou.edu/okpan/quarterly) a History & Heritage Magazine serving the Oklahoma public, now in its sixth year of publication. All opinions and errors in this site are entirely my own— unless cited otherwise haha #academichumor!
 
-Bridging Anthropologies
+Bridging Anthropology
 ------
 Digital Humanities + Molecular Anthropology + Statistics + Archaeology
 
