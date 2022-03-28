@@ -13,10 +13,10 @@ main:
     url: /year-archive/
     
   - title: "Teaching"
-    url: /teaching/
+    url: /_teaching/
     
   - title: "CV"
     url: /CV/
 
   - title: "Presentations"
-    url: /talks/
+    url: /_talks/
