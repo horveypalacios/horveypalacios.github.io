@@ -1,5 +1,9 @@
 # main links links
+
+git config --global --unset https.proxy
+
 main:
+
   - title: "Projects"
     url: /projects/  
     
