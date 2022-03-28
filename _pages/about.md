@@ -13,7 +13,7 @@ I am even more certain that to create dangerously is also to create fearlessly, 
 
 Meet Me
 ------
-My name is Horvey and I am a Miami native, Hispanic-American LatinX man currently attending OU– BOOMER SOONER! I am a broadly trained anthropological bioarchaeologist with a regional focus on the Americas both ancient and contemporary. I currently work at the [Laboratories of Molecular Anthropology and Microbiome Research (LMAMR)](https://lmamr.org) within the Department of Anthropology and [The Center for the Ethics of Indigenous Genomics Research (CEIGR)](https://www.ou.edu/cas/anthropology/ceigr) at the University of Oklahoma, while completing my Ph.D. in Molecular Anthropology. Additionally, I am pursuing graduate certificates in Applied Statistics and Digital Humanities in addition to my doctorate. Lastly, I am a team member of the _Proyecto de Interacción Política del Centro de Yucatán_ & _Proyecto Sacbe Yaxuná–Cobá_ where I conduct fieldwork and community engagement as it relates to our ongoing research projects.
+My name is Horvey and I am a Miami native, Hispanic-American LatinX man currently attending OU– BOOMER SOONER! I am a broadly trained anthropological bioarchaeologist with a regional focus on the Americas both ancient and contemporary. I currently work at the [Laboratories of Molecular Anthropology and Microbiome Research (LMAMR)](https://lmamr.org) within the Department of Anthropology and [The Center for the Ethics of Indigenous Genomics Research (CEIGR)](https://www.ou.edu/cas/anthropology/ceigr) at the University of Oklahoma, while completing my Ph.D. in Molecular Anthropology. Additionally, I am pursuing graduate certificates in Applied Statistics and Digital Humanities in conjunction to my doctorate. Lastly, I am a team member of the _Proyecto de Interacción Política del Centro de Yucatán_ & _Proyecto Sacbe Yaxuná–Cobá_ where I conduct fieldwork and community engagement as it relates to our ongoing research projects.
 
 I am originally trained in Anthropological Archaeology at the University of Miami where I specialized in Maya Archaeology. After my time in Miami I attended The University of Central Florida in Orlando where I received my M.A. and specialized in Maya Bioarchaeology. While at UCF I also participated in graduate teaching development at the Faculty Center for Teaching and Learning and trained in stable isotope methods at the Laboratory for Bioarchaeological Sciences (LBAS). I also have experience working with museums in Florida and Oklahoma on the repartriation of skeletal remains and fullfilling federal NAGPRA compliance. Lastly, I have worked with local Florida Cultural Resource Management archaeologists on both state and federal excavation projects.   
 
@@ -36,7 +36,8 @@ A major component of my training and work is centering science as a resource to 
 
 Bridging Anthropology
 ------
-Digital Humanities + Molecular Anthropology + Statistics + Archaeology
+
+Digital Humanities + Anthropology + Statistics + Archaeology
 
 Creating Dangerously
 ------
