@@ -3,7 +3,7 @@ permalink: /teaching/
 title: "Teaching"
 ---
 
-Research and mentorship play a critical role in my teaching as students learn from both interpersonal relationhips and analytical skills through hands-on experience. I have served as a teaching assistant for courses in Archaeology, Biological Anthropology, and Cultural  Anthropolgoy at UCF. In addition to this, I completed an intensive semester-long graduate training program in Preparing Future Faculty within the   Karen L. Smith Faculty Center for Teaching and Learning which developed evidence-based methods for "effective and engaging teaching in higher education". While at the University of Miami I also served as an undergraduate teaching assistant for two forensic anthropology classes dedicated to human osteology and forensic field methods. 
+Research and mentorship play a critical role in my teaching as students learn analytical and professional skills from both interpersonal relationships and through hands-on project experience. I have served as a teaching assistant for courses in Archaeology, Biological Anthropology, and Cultural  Anthropolgoy at UCF. In addition to this, I completed an intensive semester-long graduate training program to preparing future faculty within the   Karen L. Smith Faculty Center for Teaching and Learning. This program developed evidence-based methods for "effective and engaging teaching in higher education" as well as provided space to hone lecture and content delivery skills. While at the University of Miami, I also served as an undergraduate teaching assistant for two forensic anthropology classes dedicated to human osteology and forensic field methods. 
 
 ## Pedagogical & Curriculum Development
 - _Graduate Teaching Certification_
