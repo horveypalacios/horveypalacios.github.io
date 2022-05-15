@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome! ¡Bienvenidos!"
+title: "Molecules Destabilized!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -13,7 +13,7 @@ I am even more certain that to create dangerously is also to create fearlessly, 
 
 Meet Me
 ------
-My name is Horvey and I am a Miami native, Hispanic-American LatinX man currently attending OU– BOOMER SOONER! I am a broadly trained anthropological bioarchaeologist with a regional focus on the Americas both ancient and contemporary. I currently work at the [Laboratories of Molecular Anthropology and Microbiome Research (LMAMR)](https://lmamr.org) within the Department of Anthropology and [The Center for the Ethics of Indigenous Genomics Research (CEIGR)](https://www.ou.edu/cas/anthropology/ceigr) at the University of Oklahoma, while completing my Ph.D. in Molecular Anthropology. Additionally, I am pursuing graduate certificates in Applied Statistics and Digital Humanities in conjunction to my doctorate. Lastly, I am a team member of the _Proyecto de Interacción Política del Centro de Yucatán_ & _Proyecto Sacbe Yaxuná–Cobá_ where I conduct fieldwork and community engagement as it relates to our ongoing research projects.
+My name is Horvey Palacios and welcome to my new website & blog **Molecules Destabilized**.I am a Miami native, Hispanic-American LatinX man currently attending OU– BOOMER SOONER! I am a broadly trained anthropological bioarchaeologist with a regional focus on the Americas both ancient and contemporary. I currently work at the [Laboratories of Molecular Anthropology and Microbiome Research (LMAMR)](https://lmamr.org) within the Department of Anthropology and [The Center for the Ethics of Indigenous Genomics Research (CEIGR)](https://www.ou.edu/cas/anthropology/ceigr) at the University of Oklahoma, while completing my Ph.D. in Molecular Anthropology. Additionally, I am pursuing graduate certificates in Applied Statistics and Digital Humanities in conjunction to my doctorate. Lastly, I am a team member of the _Proyecto de Interacción Política del Centro de Yucatán_ & _Proyecto Sacbe Yaxuná–Cobá_ where I conduct fieldwork and community engagement as it relates to our ongoing research projects.
 
 I am originally trained in Anthropological Archaeology at the University of Miami where I specialized in Maya Archaeology. After my time in Miami I attended The University of Central Florida in Orlando where I received my M.A. and specialized in Maya Bioarchaeology. While at UCF I also participated in graduate teaching development at the Faculty Center for Teaching and Learning and trained in stable isotope methods at the Laboratory for Bioarchaeological Sciences (LBAS). I also have experience working with museums in Florida and Oklahoma on the repartriation of skeletal remains and fullfilling federal NAGPRA compliance. Lastly, I have worked with local Florida Cultural Resource Management archaeologists on both state and federal excavation projects.   
 
@@ -37,10 +37,10 @@ A major component of my training and work is centering science as a resource to 
 Bridging Anthropology
 ------
 
-Digital Humanities + Anthropology + Statistics + Archaeology
+As an explicitly community engaged scholar I am to bride molecular anthropology, archaeology, and digital humanities in my research and more importantly, in the way I engage numerous audiences with my schoalrship. In this website you will find links to educational materials, journal articles, presentations, public essays, and opinions spanning the breadth of my research and engagement with the communities I work with. I use digital humanistic tools including visualization techniques, textual analysis, and computational skills to make my work accessible through digital formats and accross disciplinary, academic, and public boundaries. My work is explicilty aimed at deconstructing these divides and destabalizing research in all three areas that crosscuts the boundaries that define these fields, and the implicit assumptions of what and how scholarship should be created and made accessible to everyone.
 
-Creating Dangerously
+Creating dangerously one molecule at a time
 ------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. 
+
 
 
