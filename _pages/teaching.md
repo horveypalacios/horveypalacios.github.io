@@ -10,18 +10,27 @@ Research and mentorship play a critical role in my teaching as students learn an
     - Karen L. Smith Faculty Center for Teaching and Learning 
 
 
-## University of Central Florida, Olrando, FL
-- ANT2511: _The Human Species (Biological Anthropology Core)_
+## University of Oklahoma, Norman, OK
+- BIOL2255: _Human Anatomy_
     - Instructor: Dr. Amanda Groff, Associate Lecturer; 190 Students
 - ANT3158: _Florida Archaeology (Archaeology Elective)_
     - Instructor: Dr. Amanda Groff, Associate Lecturer; 81 Students
 - ANT3302: _Sex, Gender and Culture (Cultural Anthropology Elective)_
     - Instructor: Dr. Amanda Groff, Associate Lecturer; 120 Students
 
+## University of Central Florida, Olrando, FL
+- ANT2511: _The Human Species_
+    - Instructor: Dr. Amanda Groff, Associate Lecturer; 190 Students
+- ANT3158: _Florida Archaeology_
+    - Instructor: Dr. Amanda Groff, Associate Lecturer; 81 Students
+- ANT3302: _Sex, Gender and Culture_
+    - Instructor: Dr. Amanda Groff, Associate Lecturer; 120 Students
 
 ## University of Miami, Coral Gables, FL
-- APY415: _Forensic Anthropology II: Field Methods (Biological Anthropology Elective)_
-    - Instructor: Ms. Monica Foraldo, Associate Lecturer; 19 Students
-- APY416: _Forensic Anthropologyy I: Human Osteology (Biological Anthropology Elective)_
-    - Instructor: Ms. Monica Foraldo, Associate Lecturer; 22 Students
+- APY203: _Principles of Biological Anthropology_
+    - Role: Instructor; 156 Students (Fall and Spring 2025)
+- APY415: _Forensic Anthropology II: Field Methods_
+    - Role: Teaching Assistant; 19 Students (Spring 2017)
+- APY416: _Forensic Anthropologyy I: Human Osteology_
+    - Role: Teaching Assistant; 22 Students (Fall 2016)
 
