@@ -3,34 +3,32 @@ permalink: /teaching/
 title: "Teaching"
 ---
 
-Research and mentorship play a critical role in my teaching as students learn analytical and professional skills from both interpersonal relationships and through hands-on project experience. I have served as a teaching assistant for courses in Archaeology, Biological Anthropology, and Cultural  Anthropolgoy at UCF. In addition to this, I completed an intensive semester-long graduate training program to prepare future faculty within the   Karen L. Smith Faculty Center for Teaching and Learning. This program developed evidence-based methods for "effective and engaging teaching in higher education" as well as provided space to hone lecture and content delivery skills. While at the University of Miami, I also served as an undergraduate teaching assistant for two forensic anthropology classes dedicated to human osteology and forensic field methods. These courses have also exposed me to teaching in face-to-face and online formats.
+Teaching is an extension of my research and mentorship practices—both grounded in a commitment to collaboration, skill-building, and ethical inquiry. I have served as instructor of record for courses in human anatomy, biological anthropology, and molecular biology methods, including place-based STEM education through the NIH-funded _[Youth Enjoy Science (YES) Oklahoma](https://yesok.oucreate.com/)_ program. My teaching philosophy is shaped by experiences across classroom, laboratory, and community-based settings, where I prioritize student-centered learning, hands-on engagement, and cultural relevance. I have also served as a teaching assistant for a range of courses in archaeology, biological anthropology, and cultural anthropology at the University of Oklahoma, the University of Central Florida, and the University of Miami.
+
+My pedagogical approach is informed by formal training through multiple programs, including the Graduate Teaching Certification at UCF, the Indigenous Pedagogy Institute at OU, and a course redesign summer course focused on backward design and inclusive curriculum development. These experiences have helped me cultivate inclusive and evidence-based teaching practices that prepare students to think critically, work collaboratively, and engage responsibly with science and society.
 
 ## Pedagogical & Curriculum Development
-- _Graduate Teaching Certification_
-    - Karen L. Smith Faculty Center for Teaching and Learning 
+_Graduate Teaching Certification_ Faculty Center for Teaching and Learning, University of Central Florida
+_Indigenous Pedagogy Institute_ College of Education, University of Oklahoma
+_(re)Designing your course: Backwards Design and Course Development_ Center for Faculty Excellence, University of Oklahoma
 
 
-## University of Oklahoma, Norman, OK
-- BIOL2255: _Human Anatomy_
-    - Instructor: Dr. Amanda Groff, Associate Lecturer; 190 Students
-- ANT3158: _Florida Archaeology (Archaeology Elective)_
-    - Instructor: Dr. Amanda Groff, Associate Lecturer; 81 Students
-- ANT3302: _Sex, Gender and Culture (Cultural Anthropology Elective)_
-    - Instructor: Dr. Amanda Groff, Associate Lecturer; 120 Students
+## Instructor
+### University of Oklahoma, Norman, OK
+BIOL2255: _Human Anatomy_
+BIOL2251: _Gross Human Anatomy Laboratory_
+ANTH1144: _YES: Molecular Biology Methods_
+### University of Miami, Miami, FL
+APY203: _Principles of Biological Anthropology_
 
-## University of Central Florida, Olrando, FL
-- ANT2511: _The Human Species_
-    - Instructor: Dr. Amanda Groff, Associate Lecturer; 190 Students
-- ANT3158: _Florida Archaeology_
-    - Instructor: Dr. Amanda Groff, Associate Lecturer; 81 Students
-- ANT3302: _Sex, Gender and Culture_
-    - Instructor: Dr. Amanda Groff, Associate Lecturer; 120 Students
-
-## University of Miami, Coral Gables, FL
-- APY203: _Principles of Biological Anthropology_
-    - Role: Instructor; 156 Students (Fall and Spring 2025)
-- APY415: _Forensic Anthropology II: Field Methods_
-    - Role: Teaching Assistant; 19 Students (Spring 2017)
-- APY416: _Forensic Anthropologyy I: Human Osteology_
-    - Role: Teaching Assistant; 22 Students (Fall 2016)
+## Teaching Assistant
+### University of Oklahoma, Norman, OK
+ANTH1124: _YES: Cancer Health Disparities_
+### University of Central Florida, Orlando, FL
+ANT2000: _The Human Species_
+ANT3158: _Florida Archaeology_
+ANT3302: _Sex, Gender and Culture_
+### University of Miami, Coral Gables, FL
+APY415: _Forensic Anthropology Field Methods_
+APY416: _Human Osteology_
 
