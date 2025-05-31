@@ -51,3 +51,10 @@ _Indigenous Pedagogy Institute_ Department of Educational Leadership and Policy 
 _(re)Designing your course: Backwards Design and Course Development_ Center for Faculty Excellence, University of Oklahoma
 
 _Instructional Competencies Certificate Program_ Graduate College, University of Oklahoma
+
+## Invited Lectures
+_Community–Engaged Bioarchaeology as Resistance_ ANTH 4580 Social Justice Archaeology, University of Oklahoma
+
+_Looting in Modernity: Commodities, Antiquities, and Site Destruction_ ANTH1000 General Anthropology, University of Oklahoma
+
+_Building a Science Communication Magazine from the Ground Up_ ENGL4677 Magazine Publishing, University of Oklahoma
