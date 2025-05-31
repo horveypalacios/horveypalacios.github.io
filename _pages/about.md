@@ -16,7 +16,16 @@ I am originally trained in anthropological archaeology at the University of Miam
 
 I am a big fan of musicals, giraffes, plants, Florence + The Machine, and magical realism!
 
-Engaging Anthropology
+Engagement and Public Scholarship
+------
+
+I believe deeply in building pathways—not pipelines—for students, communities, and collaborators to shape science from the ground up. I’ve mentored high school and undergraduate students through the NIH-funded Youth Enjoy Science (YES) Oklahoma program, teaching courses on cancer health disparities and molecular biology methods that center Indigenous and Latinx experiences. I also teach cadaver-based human anatomy and continue to design courses that connect students to both the body and the broader biosocial systems that shape health.
+
+Through The Community Archaeologist (TCA), I serve as Editor-in-Chief and mentor contributors in storytelling, visual communication, and community-centered research. TCA is a digital magazine and collaborative training space that uplifts public-facing archaeology and amplifies underrepresented voices in the field.
+
+Whether in the lab, classroom, field, or publication, my goal is to create spaces where knowledge production is not only inclusive—but co-owned.
+
+Bridging Anthropology
 ------
 At the heart of my work is a commitment to collaborative, community-driven research that bridges molecular anthropology, archaeology, and digital humanities. I strive to co-develop ethical research designs and public-facing products in partnership with the communities connected to the histories and materials I study. Whether through curriculum co-creation, digital exhibitions, or interpretive media, I work to ensure that knowledge is not only generated with communities—but also returned in meaningful, culturally responsive ways.
 
