@@ -3,8 +3,6 @@ permalink: /projects/
 title: "Research Projects"
 ---
 
-# Current or Ongoing Research
-
 ## Ancient Maya Oral Microbiomes and Microbial Community Structure  
 **Status:** Dissertation Research (Ongoing)  
 This project uses shotgun metagenomics to analyze calcified dental plaque (dental calculus) from Classic Period Maya individuals in southern Belize. It reconstructs ancient oral microbial communities to understand ecological patterns across different site types and biogeographic zones. The study applies comparative microbiome frameworks to ancient contexts and explores how microbial data can contribute to archaeological interpretations of lifestyle, movement, and environment.
