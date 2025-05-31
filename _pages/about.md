@@ -16,7 +16,7 @@ I am originally trained in anthropological archaeology at the University of Miam
 
 I am a big fan of musicals, giraffes, plants, Florence + The Machine, and magical realism!
 
-Bridging Anthropology
+Engaging Anthropology
 ------
 At the heart of my work is a commitment to collaborative, community-driven research that bridges molecular anthropology, archaeology, and digital humanities. I strive to co-develop ethical research designs and public-facing products in partnership with the communities connected to the histories and materials I study. Whether through curriculum co-creation, digital exhibitions, or interpretive media, I work to ensure that knowledge is not only generated with communities—but also returned in meaningful, culturally responsive ways.
 
