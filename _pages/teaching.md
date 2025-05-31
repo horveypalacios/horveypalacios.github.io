@@ -9,14 +9,18 @@ My pedagogical approach is informed by formal training through multiple programs
 
 ## Pedagogical & Curriculum Development
 _Graduate Teaching Certification_ Faculty Center for Teaching and Learning, University of Central Florida
+
 _Indigenous Pedagogy Institute_ College of Education, University of Oklahoma
+
 _(re)Designing your course: Backwards Design and Course Development_ Center for Faculty Excellence, University of Oklahoma
 
 
 ## Instructor
 ### University of Oklahoma, Norman, OK
 BIOL2255: _Human Anatomy_
+
 BIOL2251: _Gross Human Anatomy Laboratory_
+
 ANTH1144: _YES: Molecular Biology Methods_
 ### University of Miami, Miami, FL
 APY203: _Principles of Biological Anthropology_
@@ -26,9 +30,12 @@ APY203: _Principles of Biological Anthropology_
 ANTH1124: _YES: Cancer Health Disparities_
 ### University of Central Florida, Orlando, FL
 ANT2000: _The Human Species_
+
 ANT3158: _Florida Archaeology_
+
 ANT3302: _Sex, Gender and Culture_
 ### University of Miami, Coral Gables, FL
 APY415: _Forensic Anthropology Field Methods_
+
 APY416: _Human Osteology_
 
