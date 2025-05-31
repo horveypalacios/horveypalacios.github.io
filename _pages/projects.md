@@ -29,6 +29,7 @@ Through the *Youth Enjoy Science* (YES) Oklahoma program, I teach and mentor Ind
 
 ### Bioarchaeological and Mortuary Patterns Through Comparative Osteobiographic Approaches
 **Status:** Ongoing
+
 This project analyzes early individuals from the ancient Maya site of Holtun, Guatemala, to investigate patterns of mortuary treatment, body partibility, and identity construction. Using a comparative osteobiographic approach, it explores how personhood and social memory were expressed through burial context, skeletal modifications, and spatial patterning. The study contributes to broader discussions on embodiment, ancestor veneration, and collective memory in ancient Mesoamerica.
   
 ### Molecular Landscapes of the Yucatán Peninsula and Southern Belize  
