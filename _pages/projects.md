@@ -25,6 +25,7 @@ As Editor-in-Chief of *The Community Archaeologist*, I lead a digital magazine p
 
 ### STEM Education Research, Capacity Building, and Researching Outreach  
 **Status:** Ongoing  
+
 Through the *Youth Enjoy Science* (YES) Oklahoma program, I teach and mentor Indigenous and Latinx high school students in molecular biology, cancer disparities, and human genetics. These courses center culturally relevant pedagogy, place-based inquiry, and real-world lab experiences as a model for equity-focused STEM education.
 
 ### Bioarchaeological and Mortuary Patterns Through Comparative Osteobiographic Approaches
